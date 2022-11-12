@@ -1,0 +1,100 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: pink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+.container{
+    max-width: 1000px;
+    background-color:pink;
+    margin:0 auto;
+    padding:20px;
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border:3px slateblue  solid;
+    border-radius: 50%;
+    float:left;
+    
+}
+.for-h1{
+    float:left;
+    color: rgb(255, 0, 89);
+    padding:20px;
+    
+
+}
+h1,h2,h3,h4,h5,h6{
+    color: blueviolet;
+}
+.linkup{
+    float: right;
+    padding: 20px;
+    
+}
+.linkup a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.linkup a:hover{
+    color:red;
+    cursor: crosshair;
+
+}
+.div-clear{
+    clear:both;
+}
+hr{
+    border: 3px slateblue solid;
+    width: 100%;
+    margin:20px auto;
+    border-bottom: none;
+}
+.content{
+    margin-bottom: 30px;
+
+}
+.right-div{
+    width: 70%;
+    float:left;
+    font-size: 1rem;
+    font-weight: bold;
+    color:teal;
+    
+}
+.left-div{
+    width: 30%;
+    float:left;
+
+}
+.common-hr{
+    border:steelblue solid 3px ;
+    
+    width:100%;
+    margin:30px auto;
+    border-bottom:none;
+    
+}
+.div-right{
+    float:left;
+
+}
+.for-table{
+    text-align: center;
+    float:left;
+}
+.tables{
+    border: 3px slateblue solid;
+    float: left;
+
+}
+.fi,se,thi,fo{
+    text-align: center;
+
+}
